@@ -1,1 +1,2 @@
 # DiscreteEventSimulator
+### This simulator simulates the changes in the state of a Fast-food system across time, with each transition from one state of the system to another triggered via an event. Such events include ArriveEvent (Arrival of a Customer), WaitEvent (No available Servers), ServeEvent (Serving of a Customer), DoneEvent (Customer has been served), and LeaveEvent (Customer leaves without being served). 
